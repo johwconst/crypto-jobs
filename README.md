@@ -4,7 +4,7 @@ This repository is dedicated to listing job openings and opportunities that pay 
 
 #### Select Language
 
-![English](https://img.shields.io/badge/Language-English-blue) | [![Português](https://img.shields.io/badge/Linguagem-Português-green)](README-PT.md)
+![English](https://img.shields.io/badge/Language-English-blue) | [![Português](https://img.shields.io/badge/Linguagem-Português-green)](README-pt.md)
 
 ---
 

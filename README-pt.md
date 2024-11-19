@@ -4,7 +4,7 @@ Este repositório é dedicado a listar vagas de trabalho e oportunidades que pag
 
 #### Selecione o Idioma
 
-![English](https://img.shields.io/badge/Language-English-blue) | [![Português](https://img.shields.io/badge/Linguagem-Português-green)](README-PT.md)
+![English](https://img.shields.io/badge/Language-English-blue) | [![Português](https://img.shields.io/badge/Linguagem-Português-green)](README-pt.md)
 
 ---
 
